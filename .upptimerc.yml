@@ -7,21 +7,20 @@ sites:
     url: https://www.google.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: US pod2
+  - name: USpod2
     url: https://gateway.qg2.apps.qualys.com
-  - name: US pod2 - CS API
+  - name: USpod2-CSAPI
     url: https://gateway.qg2.apps.qualys.com/apidocs/csapi/v1.3#/
-  - name: US pod3
+  - name: USpod3
     url: https://gateway.qg3.apps.qualys.com
-  - name: US pod3 - CS API
+  - name: USpod3-CSAPI
     url: https://gateway.qg3.apps.qualys.com/apidocs/csapi/v1.3#/
-    
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: https://kong-qorg.github.io/upptime1/
-  baseUrl: kong-qorg/upptime1
+  #baseUrl: kong-qorg/upptime1
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
