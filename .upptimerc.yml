@@ -11,6 +11,13 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: US pod2
+    url: https://gateway.qg2.apps.qualys.com
+  - name: US pod2 - CS API
+    url: https://gateway.qg2.apps.qualys.com/apidocs/csapi/v1.3#/
+    
+    
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
