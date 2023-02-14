@@ -24,7 +24,8 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/kong-qorg/upptime1
+      href: https://kong-qorg.github.io/upptime1/
+      # https://github.com/kong-qorg/upptime1
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
